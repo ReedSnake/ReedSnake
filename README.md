@@ -26,27 +26,24 @@ I’m especially interested in how software systems evolve as projects grow — 
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111111?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-111111?style=for-the-badge)
+.NET | 
+ASP.NET Core | 
+EF Core 
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=white)
+MySQL
 
 ### Infrastructure & Tools
 
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-111111?style=for-the-badge\&logo=swagger\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+Docker | 
+JWT | 
+Swagger 
 
 ### Desktop & Frontend
 
-![WPF](https://img.shields.io/badge/WPF-111111?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+WPF |
+Node.js
 
 
 ---
