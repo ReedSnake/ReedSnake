@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rzub/)
 [![GitHub followers](https://img.shields.io/github/followers/ReedSnake?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ReedSnake)
-[![Profile Views](https://komarev.com/ghpvc/?username=ReedSnake\&style=for-the-badge\&color=0e75b6)](https://github.com/ReedSnake)
 
 </div>
 
